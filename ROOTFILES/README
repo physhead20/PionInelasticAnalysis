@@ -1,0 +1,5 @@
+Put your large ROOTfiles in this directory
+
+Then change to your ExampleCode directory (cd ../ExampleCode) and go through the
+process of creating your ROOT macro (see online instructions I sent you awhile
+ago)
